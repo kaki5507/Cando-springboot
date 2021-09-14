@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;table-erd&apos; to &apos;resources&apos;" description="Move &apos;table-erd&apos; to &apos;resources&apos;" destination="src/main/webapp/resources" element1="src/main/resources/table-erd" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1629704134317" updateReferences="true"/>
+</session>
